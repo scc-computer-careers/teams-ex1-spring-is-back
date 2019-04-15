@@ -1,1 +1,1 @@
-console.lg("Andrew B");
+console.log("Andrew B");
